@@ -1,0 +1,9 @@
+app/
+.env
+.vscode/
+.idea/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+test.py
